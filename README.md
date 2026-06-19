@@ -1,6 +1,6 @@
 # MCP Server for Beszel
 
-This is a local MCP server for self-hosted Beszel for self-hosted beszel on private network.
+This is a local MCP server for self-hosted beszel on private network.
 Clone this repository and run the following command:
 
 ```bash
